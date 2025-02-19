@@ -1,0 +1,14 @@
+- npm init -y
+- npm i express mongodb cors dotenv
+- typescript --save-dev
+- tsc -init
+- rootdir------ ./src
+- outdir ------ ./dist
+- folder-src-app.ts--use app.ts file
+- packae.json - "build":"tsc"
+- src-server.ts - use server.ts file
+- src-folter-app-confi-index.ts-use index.ts file
+- src-folder-modules
+- see user folder
+- zod validation - see zod validaation file
+- joi validation - see joi validaation file
